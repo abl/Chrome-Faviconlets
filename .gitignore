@@ -26,5 +26,9 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-# Private data
+# Private test data
 userdata
+
+# Cache data
+tlds-alpha-by-domain.txt
+
